@@ -1,0 +1,266 @@
+{
+  "events": {
+    "cta_click": {
+      "params": [
+        "label",
+        "placement",
+        "section_id",
+        "segment"
+      ]
+    },
+    "nav_click": {
+      "params": [
+        "label",
+        "section_id"
+      ]
+    },
+    "hero_cta_click": {
+      "params": [
+        "label",
+        "placement",
+        "section_id",
+        "segment"
+      ]
+    },
+    "hero_secondary_click": {
+      "params": [
+        "placement",
+        "label"
+      ]
+    },
+    "trust_item_click": {
+      "params": [
+        "item_id"
+      ]
+    },
+    "credential_click": {
+      "params": [
+        "credential_id"
+      ]
+    },
+    "segment_select": {
+      "params": [
+        "segment"
+      ]
+    },
+    "segment_page_click": {
+      "params": [
+        "segment"
+      ]
+    },
+    "bottleneck_node_view": {
+      "params": [
+        "node",
+        "source"
+      ]
+    },
+    "bottleneck_pair_view": {
+      "params": [
+        "pair"
+      ]
+    },
+    "bottleneck_cta_click": {
+      "params": [
+        "nodes"
+      ]
+    },
+    "readiness_start": {
+      "params": []
+    },
+    "readiness_answer": {
+      "params": [
+        "step",
+        "answer"
+      ]
+    },
+    "readiness_complete": {
+      "params": [
+        "result",
+        "answers_summary"
+      ]
+    },
+    "readiness_result": {
+      "params": [
+        "result"
+      ]
+    },
+    "readiness_cta_click": {
+      "params": [
+        "result"
+      ]
+    },
+    "case_filter": {
+      "params": [
+        "filter",
+        "visible_cases"
+      ]
+    },
+    "case_open": {
+      "params": [
+        "case_id",
+        "source"
+      ]
+    },
+    "case_metric_view": {
+      "params": [
+        "case_id",
+        "metric"
+      ]
+    },
+    "case_cta_click": {
+      "params": [
+        "case_id",
+        "action"
+      ]
+    },
+    "case_share": {
+      "params": [
+        "case_id"
+      ]
+    },
+    "diagnostic_preview_open": {
+      "params": [
+        "artifact_id"
+      ]
+    },
+    "diagnostic_timeline_step": {
+      "params": [
+        "step"
+      ]
+    },
+    "diagnostic_scope_view": {
+      "params": [
+        "price_from"
+      ]
+    },
+    "diagnostic_cta_click": {
+      "params": [
+        "placement"
+      ]
+    },
+    "operating_model_toggle": {
+      "params": [
+        "state"
+      ]
+    },
+    "team_role_view": {
+      "params": [
+        "role",
+        "segment"
+      ]
+    },
+    "founder_bio_open": {
+      "params": [
+        "founder"
+      ]
+    },
+    "team_cta_click": {
+      "params": [
+        "role"
+      ]
+    },
+    "process_step_view": {
+      "params": [
+        "step",
+        "completion_state"
+      ]
+    },
+    "process_artifact_open": {
+      "params": [
+        "step",
+        "artifact"
+      ]
+    },
+    "process_cta_click": {
+      "params": [
+        "step"
+      ]
+    },
+    "decision_cycle_step": {
+      "params": [
+        "step"
+      ]
+    },
+    "method_case_open": {
+      "params": [
+        "case_id"
+      ]
+    },
+    "faq_open": {
+      "params": [
+        "faq_id",
+        "category"
+      ]
+    },
+    "faq_deeplink_copy": {
+      "params": [
+        "faq_id"
+      ]
+    },
+    "form_start": {
+      "params": [
+        "form_id",
+        "source"
+      ]
+    },
+    "form_step_view": {
+      "params": [
+        "step",
+        "completion_state"
+      ]
+    },
+    "form_field_error": {
+      "params": [
+        "field",
+        "error_type",
+        "step"
+      ]
+    },
+    "form_back": {
+      "params": [
+        "step"
+      ]
+    },
+    "form_submit": {
+      "params": [
+        "form_id",
+        "qualification_band",
+        "segment",
+        "budget_band",
+        "crm_state"
+      ]
+    },
+    "form_success": {
+      "params": [
+        "lead_id_hash",
+        "qualification_band"
+      ]
+    },
+    "form_failure": {
+      "params": [
+        "form_id"
+      ]
+    },
+    "contact_method_click": {
+      "params": [
+        "method"
+      ]
+    },
+    "footer_link_click": {
+      "params": [
+        "label",
+        "href"
+      ]
+    },
+    "consent_preferences_open": {
+      "params": []
+    },
+    "consent_update": {
+      "params": [
+        "analytics_storage",
+        "ad_storage"
+      ]
+    }
+  },
+  "pii_rule": "Never send raw email, Telegram username, name, free-text problem field or PII-bearing URL to GA4/Meta."
+}

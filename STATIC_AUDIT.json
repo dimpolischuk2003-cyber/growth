@@ -1,0 +1,21 @@
+{
+  "one_h1": true,
+  "main": true,
+  "nav": true,
+  "footer": true,
+  "duplicate_ids": [],
+  "broken_local_refs": [],
+  "js": {
+    "analytics.js": [
+      true,
+      ""
+    ],
+    "app.js": [
+      true,
+      ""
+    ]
+  },
+  "index_kb": 56.8,
+  "css_kb": 56.6,
+  "app_js_kb": 42.5
+}

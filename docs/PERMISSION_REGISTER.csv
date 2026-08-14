@@ -1,0 +1,8 @@
+asset_type,item,status,owner_or_source,permission_needed,notes
+case_metrics,Zhuk.ua system case,verified,user case material,yes for named public client,Current prototype uses case from supplied material
+case_metrics,Used iPhone case,verified,user case material,yes for named public client,Current prototype uses case from supplied material
+case_metrics,Italy B2B cosmetics case,verified,user case material,anonymized/no logo,Client name not shown
+credential,Forbes Ukraine role,verified,user career context,logo permission if logo used,Text credential only
+testimonial,Client testimonial,blocked,TBD,yes,Do not publish before approval
+team_photo,Core team members,blocked,TBD,yes,Need confirmed people and real photos
+client_logo,Client logos,blocked,TBD,yes,Static logo wall only after permission

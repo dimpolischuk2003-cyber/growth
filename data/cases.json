@@ -1,0 +1,36 @@
+{
+  "zhuk": {
+    "niche": "E-commerce / електроніка",
+    "geography": "Україна",
+    "period": "1,5 місяця",
+    "metrics": {
+      "transaction_cost": "−26,9%",
+      "conversion": "+50,4%",
+      "revenue": "+93,1%"
+    },
+    "source": "Підтверджений кейс"
+  },
+  "iphone": {
+    "niche": "Б/У iPhone",
+    "geography": "Україна",
+    "period": "1,5 місяця",
+    "metrics": {
+      "sales_value": "×5",
+      "revenue": "≈₴1 млн",
+      "roas": "+30%"
+    },
+    "source": "Підтверджений кейс"
+  },
+  "italy": {
+    "niche": "B2B косметика",
+    "geography": "Італія",
+    "period": "перший місяць",
+    "metrics": {
+      "spend": "€879,79",
+      "sales": "74",
+      "cost_per_sale": "€11,8",
+      "roas": "4,81"
+    },
+    "source": "Підтверджений кейс"
+  }
+}

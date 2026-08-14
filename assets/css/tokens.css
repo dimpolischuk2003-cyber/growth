@@ -1,0 +1,18 @@
+:root{
+      --bg:#eef5ff;
+      --bg2:#e3efff;
+      --paper:#f8fbff;
+      --white:#ffffff;
+      --ink:#090b10;
+      --blue:#1767e8;
+      --blue2:#2f72df;
+      --blue-soft:#cfe2ff;
+      --muted:#6e7a8c;
+      --line:#a9c8ef;
+      --orange:#ef9645;
+      --green:#35a65d;
+      --violet:#7b56dd;
+      --shadow:0 24px 60px rgba(48,77,112,.14);
+      --r:22px;
+      --max:1220px;
+    }
